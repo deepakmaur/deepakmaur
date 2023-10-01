@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Deepak__Maurya
-- 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on hackthons and project
 - 📫 How to reach me @thums9up@gmail.com
