@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmaur&" alt="deepakmaur" /></p>
 
-<img src="https://t.bkit.co/w_6734ac649c7ad.gif" />
+[<p><img src="https://t.bkit.co/w_6734ac649c7ad.gif" /></p>](https://t.bkit.co/w_6734ac649c7ad.gif)
