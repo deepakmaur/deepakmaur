@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakmaur&show_icons=true&locale=en" alt="deepakmaur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmaur&" alt="deepakmaur" /></p>
+
+<img src="https://t.bkit.co/w_6734ac649c7ad.gif" />
